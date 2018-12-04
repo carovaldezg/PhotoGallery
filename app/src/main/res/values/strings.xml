@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PhotoGaleryApp</string>
+
+    <!-- Tab bar titles -->
+
+    <string-array name="home_tabs_title">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="user_name">Anastasia</string>
+    <string name="user_location">Helsinki, Finland</string>
+    <string name="photo_galery">Welcome to my photo galery</string>
+    <string name="profile_description">Hi! I am Anastasia and this is my photo galery, just a simple test where you can see all my pictures that have been saved in a server.</string>
+    <string name="dev_name">Caro Val</string>
+    <string name="dev_year">2018</string>
+    <string name="app_description">This app is an MVP sample developed in Java, using Retrofit and Butterknife</string>
+    <string name="developed_by">Developed by</string>
+    <string name="visit_my_networks">Let\'s connect!</string>
+    <string name="github_url">www.github.com/carovaldezg</string>
+    <string name="linkedin_url">www.linkedin.com/in/carovaldezg</string>
+    <string name="medium_url">https://medium.com/@carolina.valdez</string>
+    <string name="playstore_url">https://play.google.com/store/apps/developer?id=carovaldezg</string>
+    <string name="error_no_browser_found">There are no browsers installed in your device.</string>
+    <string name="server_error">"Something went wrong.Please try later!"</string>
+
+</resources>
